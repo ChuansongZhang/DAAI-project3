@@ -1,0 +1,14 @@
+hamburg/hamburg_000000_046078_leftImg8bit.png
+hamburg/hamburg_000000_047108_leftImg8bit.png
+hamburg/hamburg_000000_053563_leftImg8bit.png
+hamburg/hamburg_000000_054555_leftImg8bit.png
+hamburg/hamburg_000000_055894_leftImg8bit.png
+hamburg/hamburg_000000_056508_leftImg8bit.png
+hamburg/hamburg_000000_057487_leftImg8bit.png
+hamburg/hamburg_000000_059720_leftImg8bit.png
+hamburg/hamburg_000000_061790_leftImg8bit.png
+hamburg/hamburg_000000_062964_leftImg8bit.png
+hamburg/hamburg_000000_063403_leftImg8bit.png
+hamburg/hamburg_000000_064269_leftImg8bit.png
+hamburg/hamburg_000000_065604_leftImg8bit.png
+hamburg/hamburg_000000_065843_leftImg8bit.png

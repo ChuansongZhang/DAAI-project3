@@ -1,0 +1,12 @@
+aachen/aachen_000110_000019_leftImg8bit.png
+aachen/aachen_000111_000019_leftImg8bit.png
+aachen/aachen_000115_000019_leftImg8bit.png
+aachen/aachen_000121_000019_leftImg8bit.png
+aachen/aachen_000130_000019_leftImg8bit.png
+aachen/aachen_000143_000019_leftImg8bit.png
+aachen/aachen_000152_000019_leftImg8bit.png
+aachen/aachen_000158_000019_leftImg8bit.png
+aachen/aachen_000160_000019_leftImg8bit.png
+aachen/aachen_000162_000019_leftImg8bit.png
+aachen/aachen_000165_000019_leftImg8bit.png
+aachen/aachen_000167_000019_leftImg8bit.png

@@ -1,0 +1,11 @@
+tubingen/tubingen_000010_000019_leftImg8bit.png
+tubingen/tubingen_000018_000019_leftImg8bit.png
+tubingen/tubingen_000024_000019_leftImg8bit.png
+tubingen/tubingen_000025_000019_leftImg8bit.png
+tubingen/tubingen_000039_000019_leftImg8bit.png
+tubingen/tubingen_000048_000019_leftImg8bit.png
+tubingen/tubingen_000054_000019_leftImg8bit.png
+tubingen/tubingen_000056_000019_leftImg8bit.png
+tubingen/tubingen_000069_000019_leftImg8bit.png
+tubingen/tubingen_000085_000019_leftImg8bit.png
+tubingen/tubingen_000088_000019_leftImg8bit.png

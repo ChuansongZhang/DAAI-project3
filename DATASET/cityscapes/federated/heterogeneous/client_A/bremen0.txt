@@ -1,0 +1,17 @@
+bremen/bremen_000003_000019_leftImg8bit.png
+bremen/bremen_000021_000019_leftImg8bit.png
+bremen/bremen_000022_000019_leftImg8bit.png
+bremen/bremen_000023_000019_leftImg8bit.png
+bremen/bremen_000026_000019_leftImg8bit.png
+bremen/bremen_000027_000019_leftImg8bit.png
+bremen/bremen_000028_000019_leftImg8bit.png
+bremen/bremen_000042_000019_leftImg8bit.png
+bremen/bremen_000059_000019_leftImg8bit.png
+bremen/bremen_000062_000019_leftImg8bit.png
+bremen/bremen_000063_000019_leftImg8bit.png
+bremen/bremen_000066_000019_leftImg8bit.png
+bremen/bremen_000068_000019_leftImg8bit.png
+bremen/bremen_000085_000019_leftImg8bit.png
+bremen/bremen_000086_000019_leftImg8bit.png
+bremen/bremen_000093_000019_leftImg8bit.png
+bremen/bremen_000098_000019_leftImg8bit.png

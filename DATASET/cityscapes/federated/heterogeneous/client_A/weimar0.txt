@@ -1,0 +1,17 @@
+weimar/weimar_000002_000019_leftImg8bit.png
+weimar/weimar_000013_000019_leftImg8bit.png
+weimar/weimar_000028_000019_leftImg8bit.png
+weimar/weimar_000035_000019_leftImg8bit.png
+weimar/weimar_000049_000019_leftImg8bit.png
+weimar/weimar_000055_000019_leftImg8bit.png
+weimar/weimar_000059_000019_leftImg8bit.png
+weimar/weimar_000060_000019_leftImg8bit.png
+weimar/weimar_000068_000019_leftImg8bit.png
+weimar/weimar_000082_000019_leftImg8bit.png
+weimar/weimar_000085_000019_leftImg8bit.png
+weimar/weimar_000088_000019_leftImg8bit.png
+weimar/weimar_000092_000019_leftImg8bit.png
+weimar/weimar_000096_000019_leftImg8bit.png
+weimar/weimar_000103_000019_leftImg8bit.png
+weimar/weimar_000113_000019_leftImg8bit.png
+weimar/weimar_000121_000019_leftImg8bit.png

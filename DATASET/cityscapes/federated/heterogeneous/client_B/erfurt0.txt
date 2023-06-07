@@ -1,0 +1,14 @@
+erfurt/erfurt_000000_000019_leftImg8bit.png
+erfurt/erfurt_000011_000019_leftImg8bit.png
+erfurt/erfurt_000019_000019_leftImg8bit.png
+erfurt/erfurt_000032_000019_leftImg8bit.png
+erfurt/erfurt_000034_000019_leftImg8bit.png
+erfurt/erfurt_000039_000019_leftImg8bit.png
+erfurt/erfurt_000060_000019_leftImg8bit.png
+erfurt/erfurt_000076_000019_leftImg8bit.png
+erfurt/erfurt_000080_000019_leftImg8bit.png
+erfurt/erfurt_000081_000019_leftImg8bit.png
+erfurt/erfurt_000085_000019_leftImg8bit.png
+erfurt/erfurt_000094_000019_leftImg8bit.png
+erfurt/erfurt_000098_000019_leftImg8bit.png
+erfurt/erfurt_000100_000019_leftImg8bit.png

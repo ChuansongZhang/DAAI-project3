@@ -1,0 +1,14 @@
+munster/munster_000153_000019_leftImg8bit.png
+munster/munster_000154_000019_leftImg8bit.png
+munster/munster_000155_000019_leftImg8bit.png
+munster/munster_000156_000019_leftImg8bit.png
+munster/munster_000157_000019_leftImg8bit.png
+munster/munster_000158_000019_leftImg8bit.png
+munster/munster_000159_000019_leftImg8bit.png
+munster/munster_000160_000019_leftImg8bit.png
+munster/munster_000162_000019_leftImg8bit.png
+munster/munster_000166_000019_leftImg8bit.png
+munster/munster_000167_000019_leftImg8bit.png
+munster/munster_000168_000019_leftImg8bit.png
+munster/munster_000171_000019_leftImg8bit.png
+munster/munster_000172_000019_leftImg8bit.png

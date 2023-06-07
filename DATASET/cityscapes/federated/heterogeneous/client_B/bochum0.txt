@@ -1,0 +1,15 @@
+bochum/bochum_000000_000313_leftImg8bit.png
+bochum/bochum_000000_007651_leftImg8bit.png
+bochum/bochum_000000_011711_leftImg8bit.png
+bochum/bochum_000000_014332_leftImg8bit.png
+bochum/bochum_000000_015880_leftImg8bit.png
+bochum/bochum_000000_016758_leftImg8bit.png
+bochum/bochum_000000_018195_leftImg8bit.png
+bochum/bochum_000000_021479_leftImg8bit.png
+bochum/bochum_000000_024196_leftImg8bit.png
+bochum/bochum_000000_026056_leftImg8bit.png
+bochum/bochum_000000_027057_leftImg8bit.png
+bochum/bochum_000000_030913_leftImg8bit.png
+bochum/bochum_000000_031922_leftImg8bit.png
+bochum/bochum_000000_033056_leftImg8bit.png
+bochum/bochum_000000_037829_leftImg8bit.png

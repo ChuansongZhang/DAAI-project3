@@ -1,0 +1,17 @@
+zurich/zurich_000003_000019_leftImg8bit.png
+zurich/zurich_000014_000019_leftImg8bit.png
+zurich/zurich_000028_000019_leftImg8bit.png
+zurich/zurich_000041_000019_leftImg8bit.png
+zurich/zurich_000044_000019_leftImg8bit.png
+zurich/zurich_000046_000019_leftImg8bit.png
+zurich/zurich_000055_000019_leftImg8bit.png
+zurich/zurich_000058_000019_leftImg8bit.png
+zurich/zurich_000069_000019_leftImg8bit.png
+zurich/zurich_000074_000019_leftImg8bit.png
+zurich/zurich_000075_000019_leftImg8bit.png
+zurich/zurich_000080_000019_leftImg8bit.png
+zurich/zurich_000081_000019_leftImg8bit.png
+zurich/zurich_000088_000019_leftImg8bit.png
+zurich/zurich_000105_000019_leftImg8bit.png
+zurich/zurich_000109_000019_leftImg8bit.png
+zurich/zurich_000116_000019_leftImg8bit.png

@@ -1,0 +1,13 @@
+lindau/lindau_000001_000019_leftImg8bit.png
+lindau/lindau_000002_000019_leftImg8bit.png
+lindau/lindau_000006_000019_leftImg8bit.png
+lindau/lindau_000008_000019_leftImg8bit.png
+lindau/lindau_000012_000019_leftImg8bit.png
+lindau/lindau_000014_000019_leftImg8bit.png
+lindau/lindau_000016_000019_leftImg8bit.png
+lindau/lindau_000017_000019_leftImg8bit.png
+lindau/lindau_000018_000019_leftImg8bit.png
+lindau/lindau_000019_000019_leftImg8bit.png
+lindau/lindau_000020_000019_leftImg8bit.png
+lindau/lindau_000022_000019_leftImg8bit.png
+lindau/lindau_000024_000019_leftImg8bit.png

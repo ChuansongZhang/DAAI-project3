@@ -1,0 +1,13 @@
+krefeld/krefeld_000000_000108_leftImg8bit.png
+krefeld/krefeld_000000_004447_leftImg8bit.png
+krefeld/krefeld_000000_005503_leftImg8bit.png
+krefeld/krefeld_000000_009926_leftImg8bit.png
+krefeld/krefeld_000000_010160_leftImg8bit.png
+krefeld/krefeld_000000_010329_leftImg8bit.png
+krefeld/krefeld_000000_011483_leftImg8bit.png
+krefeld/krefeld_000000_021000_leftImg8bit.png
+krefeld/krefeld_000000_021814_leftImg8bit.png
+krefeld/krefeld_000000_025812_leftImg8bit.png
+krefeld/krefeld_000000_027075_leftImg8bit.png
+krefeld/krefeld_000000_032845_leftImg8bit.png
+krefeld/krefeld_000000_034156_leftImg8bit.png
