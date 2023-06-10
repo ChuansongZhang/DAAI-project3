@@ -26,7 +26,7 @@ def get_dataset(model_name, dataset_name, double_dataset=None, quadruple_dataset
             dataset = partial(Cityscapes, mean=mean, std=std, cv2=cv2)
 
             train_transform = [
-                tr.RandomScale((0.7, 2)),
+                tr.RandomScale((0.5, 1.5)),
                 tr.RandomCrop((512, 1024)),
                 tr.ToTensor(),
                 tr.Normalize(mean=mean, std=std),
@@ -62,7 +62,7 @@ def get_dataset(model_name, dataset_name, double_dataset=None, quadruple_dataset
         dataset = partial(GTA5, mean=mean, std=std, cv2=cv2, target_dataset=target_dataset)
 
         train_transform = [
-            tr.RandomScale((0.7, 2)),
+            tr.RandomScale((0.5, 1.5)),
             tr.RandomCrop((512, 1024), pad_if_needed=True),
             tr.ToTensor(),
             tr.Normalize(mean=mean, std=std),
@@ -79,7 +79,7 @@ def get_dataset(model_name, dataset_name, double_dataset=None, quadruple_dataset
     if gaussian_blur:
         train_transform[-2:-2] = [tr.GaussianBlur()]
     if color_jitter:
-        train_transform[-2:-2] = [tr.ColorJitter(brightness=0.5, contrast=0.5, saturation=0.5)]
+        train_transform[-2:-2] = [tr.ColorJitter(brightness=0.4, contrast=0.4, saturation=0.4)]
 
     train_transform = tr.Compose(train_transform)
     test_transform = tr.Compose(test_transform)
