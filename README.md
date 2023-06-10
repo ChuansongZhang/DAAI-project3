@@ -83,6 +83,19 @@ Student: s287660-Chuansong Zhang, s303293-Wei Li, s294616-Shuning Liu
      Upload the .ipynb file to your Google Drive account and open them with Colaboratory to run the experiment (suggest moving the file to your Colab Network directory) 
   
 * ### EXPERIMENT SETUP
+     | Model | Setup |
+     |:--|---|
+     | hnm | True |
+     | outpu_aux | True |
+     | test_batch_size | 1 |
+     | server_opt | SGD |
+     |  server_lr|1 |
+     | server_momentum | 0 |
+     | weight_decay | 5e-3 |
+     |client_opt|SGD|
+     |lr_policy|poly|
+     |lr_power|0.9|
+     |moentum|0.9|
   
 * ### POSSIBLE ERRORS AND SOLUTIONS
   
